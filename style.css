@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+
+ }
+
+ .carousel-clearfix{
+    height: 100px;
+}
